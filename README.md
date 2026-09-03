@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./742f8008e0e214f0f3fbef89c4a9b42334e65841ba3b4b19f4ff587a32f71bc0.png" alt="Kazi Sajedul Mahbub Arpon - Profile Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Kazi Sajedul Mahbub Arpon
 
 ### 💻 Computer Science & Engineering Student | Aspiring Software Developer
